@@ -1,2 +1,3 @@
 ## Sonic Boscage Maze - PS2 Model V1.0
--Test Release
+-Add Sonic Boscage Maze Model.
+-Adds the Sonic Boscage Maze model in the scenes.
