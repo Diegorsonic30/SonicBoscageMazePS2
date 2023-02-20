@@ -1,1 +1,6 @@
+/disk/bb3/evSonic.ar.00
+/disk/bb3/evSonic.arl
+/disk/bb3/Sonic.ar.00
+/disk/bb3/Sonic.ar.01
+/disk/bb3/Sonic.arl
 add mod.ini
